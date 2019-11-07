@@ -22,7 +22,7 @@
 
 -   Kotlin
 -   RxJava
--   ...
+-   Android Architecture Components (ViewModel)
 -   Остальное на твое усмотрение
 
 ### Пример ленты репозиториев
