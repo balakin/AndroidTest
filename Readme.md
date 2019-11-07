@@ -27,4 +27,4 @@
 
 ### Пример ленты репозиториев
 
-
+![alt text](https://raw.githubusercontent.com/balakin/AndroidTest/master/search-android.jpg)
